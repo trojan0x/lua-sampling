@@ -1,4 +1,4 @@
--- A short Guess the number game in lua
+-- A short Guess the number CLI game in lua
 
 math.randomseed( os.time() );
 
